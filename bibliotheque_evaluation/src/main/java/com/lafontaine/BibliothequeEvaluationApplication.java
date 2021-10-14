@@ -1,4 +1,4 @@
-package com.example.bibliotheque_evaluation;
+package com.lafontaine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
